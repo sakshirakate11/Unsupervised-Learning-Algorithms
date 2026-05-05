@@ -23,6 +23,8 @@ This repository contains implementations of Unsupervised Machine Learning algori
 4. **Q_Learning Algo**
   to implement the reinforcement learning algorithm.
 
+5. **APRIORI ALGORITHM**
+
 ## Tools Used:
 - Python
 - Scikit-Learn
