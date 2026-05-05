@@ -20,6 +20,9 @@ This repository contains implementations of Unsupervised Machine Learning algori
 4. **Customer Segmentation**
    thus is the dataset for the k medoids clustering.
 
+4. **Q_Learning Algo**
+  to implement the reinforcement learning algorithm.
+
 ## Tools Used:
 - Python
 - Scikit-Learn
